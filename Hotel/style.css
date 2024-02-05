@@ -1,0 +1,793 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#main{
+    height: 51px;
+    background-color: rgb(238, 238, 238);
+    border-bottom: 1px solid #383737;
+}
+#main li{
+    display: inline;
+    margin-left: 3px;
+}
+#oo{
+    color: #dfa974;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+#oo:hover{
+    color: #542626;
+    
+}
+#o1{
+   
+    margin-top: 20px;
+    margin-left: 620px;
+    margin-right: 20px;
+}
+#o1:hover{
+    color: #542626;
+    
+}
+#o{
+   
+    margin-right: 20px;
+}
+#o:hover{
+    color: #542626;
+    
+}
+#back{
+    padding-top: 19px;
+    padding-bottom: 14px;
+    padding-left: 26px;
+    padding-right: 29.2px;
+    background-color: #dfa974;
+    color: #ffffff;
+    letter-spacing: 3px;
+}
+#back:hover{
+    background-color: #542626;
+}
+.navbar{
+    height: 78px;
+    background-color: #fffdfd;  
+}
+.navbar img{
+    margin-top: 30px;
+    margin-left: 200px;
+}
+.navbar ul{
+    margin-top: -35px;
+    margin-left: 350px;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 20px;
+    list-style-type: none;
+    font-size: 18px;
+}
+.navbar ul li a{
+    margin-left: 20px;
+    margin-right: 30px;
+    text-decoration: none;
+    color: #181717;
+}
+.navbar ul li a:hover{
+    color:#dfa974;
+}
+#search{
+    margin-left: 50px;
+}
+#search:hover{
+    color:#dfa974;
+    
+}
+#information{
+    height: 100vh;  
+    background-size: cover;
+    background-image: url("luxury-pool-villa-spectacular-contemporary-design-digital-art-real-estate-home-house-property-ge.jpg");
+    display: flex;
+    flex-wrap: wrap;
+}
+#infor{
+    width: 650px;
+    margin-left: 150px;
+    display: flex;
+    flex-wrap: wrap;
+}
+#infor h1{
+    font-size: 80px;
+    color: #ffffff;
+    padding-top: 150px;  
+    letter-spacing: 5px; 
+}
+#infor p{
+    font-size: 18px;
+    color: #ffffff;
+    line-height: 25px;
+}
+#infor a{
+    font-size: 16px;
+    color: #ffffff;
+    text-decoration-color: #dfa974;
+}
+#infor h1:hover{
+    color: #dfa974;
+}
+#infor p:hover{
+    color: #dfa974;
+}
+#form{
+    width: 370px;
+    height: 611px;
+    background-color: rgba(124, 145, 124, 0.766);
+    margin-top: 60px;
+    margin-left: 130px;
+    border-radius: 20px;
+    
+}
+#form:hover{
+    background-color: #ffffff;
+    color: #dfa974;
+}
+#form h3{
+    font-size: 30px;
+    color: #19191A;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    text-align: center;
+}
+#form input{
+    width: 230px;
+    height: 50px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    font-size: 18px;
+    margin-left: 75px;
+   border: 1px solid #c6c6cb;
+   border-radius: 10px;
+   background-color: rgba(124, 145, 124, 0.766);
+}
+#form label{
+    margin-left: 75px;
+}
+#form select{
+    width: 230px;
+    height: 50px;
+    margin-left: 75px;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: rgba(124, 145, 124, 0.766);
+}
+#form button{
+    width: 230px;
+    height: 46px;
+    margin-left: 75px;
+    border-radius: 50px;
+    margin-top: 20px;
+    background-color: rgb(150, 248, 150);
+    border: none;
+    border: 1px solid #86868e;
+    letter-spacing: 2px;
+    color: #19191A;
+}
+#form button:hover{
+    background-color: #dfa974;
+    color: #ffffff;
+}
+#age{
+    margin-left: 230px;
+    margin-right: 100px;
+
+}
+.agent{
+    height: 481px;
+    width:450px ;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 70px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.agent span{
+    font-size: 16px;
+    color: #dfa974;
+}
+.agent h2{
+    font-size: 44px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  
+}
+#raj{
+    margin-bottom: 15px;
+    line-height: 25px;
+}
+#raje{
+    margin-bottom: 25px;
+    line-height: 25px;
+}
+.agent a{
+    font-size: 17px;
+    color: #181717;
+    text-decoration-color: #dfa974;
+}
+#rajesh{
+    display: flex;   
+    margin-left: 700px;
+    margin-top: -450px;
+}
+#rajesh img{
+    height: 427px;
+    width:270px ;
+    margin-right: 50px;
+}
+.agent img:hover{
+    scale: 1.1;
+}
+#explore span{
+    color: #dfa974;
+    text-align: center;
+}
+#explore h2{
+    font-size: 44px;
+    margin-top: 20px;
+}
+#explore{
+    text-align: center ;
+    margin-top: 70px;
+}
+#containers1{
+    margin-top: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    justify-content: center;
+}
+#containers2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.container1{
+    width: 290px;
+    height: 254px;
+    background-color: #f2ecec;
+    text-align: center;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.container1 i{
+    font-size: 50px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.container1 h4{
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+.container1 p{
+    color:#707079 ;
+}
+.container1:hover{
+    background-color: #dfa974;
+    color: #ffffff;
+}
+
+#three{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#canada{
+    height: 450px;
+    width: 360px;
+    background-image: url("Untitled\ design\ \(10\).png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 40px;
+    margin-right: 20px;
+    border: 1px solid #18171725;
+    border-radius: 5px;
+}
+#canada:hover{ 
+    scale: 1.02;
+}
+#canadaa:hover{ 
+    scale: 1.02;
+}
+#canadaaa:hover{ 
+    scale: 1.02;
+}
+#canadaa{
+    height: 450px;
+    width: 360px;
+    background-image: url("Untitled\ design\ \(11\).png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 40px;
+    margin-right: 20px;
+    border: 1px solid #18171725;
+    border-radius: 5px;
+}
+#canadaaa{
+    height: 450px;
+    width: 360px;
+    background-image: url("Untitled\ design\ \(13\).png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 40px;
+    border: 1px solid #18171725;
+    border-radius: 5px;
+}
+#canada a span{
+    background-color:#dfa974;
+    color: #ffffff;
+    padding: 5px 5px;
+    border-radius: 5px;
+   font-size: 12px;
+}
+#canadaa a span{
+    background-color:#dfa974;
+    color: #ffffff;
+    padding: 5px 5px;
+    border-radius: 5px;
+   font-size: 12px;
+}
+#canadaaa a span{
+    background-color:#dfa974;
+    color: #ffffff;
+    padding: 5px 5px;
+    border-radius: 5px;
+   font-size: 12px;
+}
+#vv{
+    margin-top: 350px;
+    margin-left: 30px;
+}
+#in{
+    line-height: 25px;
+    font-size: 22px;
+    color: #ffffff;
+}
+#canada i{
+    color: #ffffff;
+    margin-top: 8px;
+}
+#canadaa i{
+    color: #ffffff;
+    margin-top: 8px;
+}
+#april{
+    color: #ffffff;
+    letter-spacing: 3px;
+}
+#vv i{
+    color: #ffffff;
+    margin-top: 8px;
+}
+#vvv{
+    margin-top: 350px;
+    margin-left: 30px;
+}
+#city{
+    display: flex;
+    flex-wrap: wrap;
+}
+#cityy{
+    width: 750px;
+    height: 430px;
+    background-image: url("Untitled\ design\ \(14\).png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 175px;
+    margin-top: 40px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+#cityy:hover{
+    scale: 1.03;
+}
+#v{
+    padding-top: 300px;
+    margin-left: 30px;
+}
+#v a span{
+    background-color:#dfa974;
+    color: #ffffff;
+    padding: 5px 5px;
+    border-radius: 5px;
+   font-size: 12px;
+}
+#v i{
+    color: #ffffff;
+    margin-top: 8px;
+}
+#king{
+    height: 430px;
+    width: 350px;
+    background-image: url("Untitled\ design\ \(15\).png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 40px;
+    border: 1px solid #18171725;
+    border-radius: 10px;
+}
+#king:hover{
+    scale: 1.03;
+}
+#king a span{
+    background-color:#dfa974;
+    color: #ffffff;
+    padding: 5px 5px;
+    border-radius: 5px;
+   font-size: 12px;
+   
+}
+#king i{
+    color: #ffffff;
+    margin-top: 8px;
+}
+#r{
+    margin-top: 300px;
+    margin-left: 30px;
+}
+
+.footer{
+    height: 35vh;
+    background-color: #222736;
+    display: flex;
+    margin-top: 70px;
+}
+#logo{
+    width: 340px;
+    color: #ffffff;
+    padding-top: 50px;
+    margin-left: 200px;
+}
+#logi p{
+    padding-top: 20px;
+    color: #AAAAB3;
+}
+#new1{
+    margin-top: 20px;
+}
+
+#new1 i{
+    height: 40px;
+    width: 40px;
+    border: 1px solid;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 20px;
+
+}
+#new1 i:hover{
+    background-color: #dfa974;
+}
+#us{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+#us h6{
+    color: #dfa974;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+#us li{
+    color: #AAAAB3;
+    list-style-type: none;
+    line-height: 25px;
+}
+#latest{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+#latest h6{
+    color: #dfa974;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+#latest p{
+    color: #AAAAB3;
+}
+#latest input{
+    margin-top: 30px;
+    width: 210px;
+    height: 40px;
+}
+#latest i{
+    background-color: #6c748d;
+    padding: 13px 15px;
+}
+.copyrights{
+    height: 10vh;
+    background-color: #222736f9;
+    list-style: none;
+    display: flex;
+    color: #ffffff8b;
+    justify-content: space-evenly;
+}
+.copyrights li{
+    margin-top: 20px;
+}
+.copyrights p{
+    margin-top: 20px;
+}
+
+
+@media screen and (max-width:600px){
+    #main{
+        display: none;
+    }
+    .navbar{
+        display: none;
+    }
+    #infor h1{
+    font-size: 20px;
+}
+    #infor p{
+        font-size: 12px;
+    }
+    #infor{
+        width: 250px;
+        margin-left: 100px;
+        margin-top: -70px;
+        justify-content: center;
+    }
+    #form{
+        width: 220px;
+        height: 310px;
+        margin-left: 100px;
+        margin-top: 40px;
+        justify-content: center;
+    }
+    #form h3{
+        font-size: 18px;
+        margin-top: 10px;
+        margin-bottom: 8px;
+    }
+    #form input{
+        width: 130px;
+        height: 25px;
+        font-size: 13px;
+        margin-top: 5px;
+        margin-left: 40px;
+        margin-bottom: 10px;
+    }
+    #form label{
+        margin-left: 40px;
+    }
+    #form select{
+        width: 130px;
+        height: 25px;
+        font-size: 13px;
+        margin-top: 5px;
+        margin-left: 40px;
+        margin-bottom: 10px;
+    }
+    #form button{
+        width: 130px;
+        height: 28px;
+        font-size: 10px;
+        margin-top: 5px;
+        margin-left: 38px;
+        margin-bottom: 10px;
+        letter-spacing: normal;
+        margin-top: -10px;
+        background-color: #ffffff55;
+    }
+    #navbar{
+        display: none;
+    }
+    #information{
+        height: 100vh; 
+        width: 500px; 
+        background-size: cover;
+        justify-content: center;
+    }
+    #age{
+        margin-left: 100px;
+        
+    }
+    #weare{
+        justify-content: center;
+    }
+    .agent{
+        height: 481px;
+        width:450px ;
+        margin-top: 30px;
+        margin-bottom: -140px;
+        justify-content: center;
+    }
+    .agent span{
+        font-size: 9px;
+        color: #dfa974;
+    }
+    .agent h2{
+        font-size: 18px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+      
+    }
+    #raj{
+        margin-bottom: 15px;
+        line-height: 20px;
+        font-size: 13px;
+    }
+    #raje{
+        margin-bottom: 25px;
+        line-height: 20px;
+        font-size: 13px;
+    }
+    .agent a{
+        font-size: 15px;
+        color: #181717;
+        text-decoration-color: #dfa974;
+    }
+    #rajesh{
+        display: none;
+    }
+
+    #explore{
+        justify-content: center;
+    }
+    #explore span{
+        color: #dfa974;
+        font-size: 9px;
+        margin-left: -85px;
+    }
+    #explore h2{
+        font-size: 18px;
+        margin-top: 8px;
+        margin-left: -85px;
+    }
+    #containers1{
+        margin-top: 20px;
+        justify-content: center;
+    }
+    .container1{
+        width: 200px;
+        height: 140px;
+        background-color: #f2ecec;
+        text-align: center;
+        padding-right: 20px;
+        padding-left: 20px;
+        margin-left: 20px;
+        justify-content: center;
+    }
+    .container1 i{
+        font-size: 25px;
+        margin-top: 10px;
+        margin-bottom: 8px;
+    }
+    .container1 h4{
+        font-size: 18px;
+        margin-bottom: 8px;
+    }
+    .container1 p{
+        color:#707079 ;
+        font-size: 13px;
+    }
+    #canada{
+        height: 250px;
+        width: 160px;
+        margin-top: 20px;
+        border: 1px solid #18171725;
+        border-radius: 5px;
+    
+    }
+    #vv{
+        margin-top: 150px;
+        margin-left: 15px;
+    }
+    #in{
+        line-height: 20px;
+        font-size: 15px;
+        color: #ffffff;
+    }
+    #april{
+        color: #ffffff;
+        letter-spacing: 1px;
+        font-size: 10px;
+    }
+    #vv i{
+        font-size: 12px;
+    }
+    #canada a span{
+        background-color:#dfa974;
+        color: #ffffff;
+        padding: 2px 2px;
+        border-radius: 5px;
+       font-size: 8px;
+    }
+
+    #canadaa{
+        height: 250px;
+        width: 160px;
+        margin-top: 20px;
+        border: 1px solid #18171725;
+        border-radius: 5px;
+        margin-left: 50px;
+    }
+    #canadaa a span{
+        background-color:#dfa974;
+        color: #ffffff;
+        padding: 2px 2px;
+        border-radius: 5px;
+       font-size: 8px;
+    }
+    #canadaaa{
+        height: 250px;
+        width: 160px;
+        margin-top: 20px;
+        border: 1px solid #18171725;
+        border-radius: 5px;
+    }
+    #canadaaa a span{
+        background-color:#dfa974;
+        color: #ffffff;
+        padding: 2px 2px;
+        border-radius: 5px;
+       font-size: 8px;
+    }
+    #cityy{
+        width: 350px;
+        height: 250px;   
+        margin-left: 105px;
+        margin-top: 20px;
+        border-radius: 10px;
+        justify-content: center;
+    }
+    #v{
+        padding-top: 150px;
+        margin-left: 30px;
+    }
+    #v a span{
+        background-color:#dfa974;
+        color: #ffffff;
+        border-radius: 5px;
+        font-size: 12px;
+    }
+    #v i{
+        color: #ffffff;
+        margin-top: 2px;
+        font-size: 12px;
+    }
+    #king{
+        width: 350px;
+        height: 250px;   
+        margin-left: 105px;
+        margin-top: 20px;
+        border-radius: 10px;
+        justify-content: center;
+    }
+    #king a span{
+        background-color:#dfa974;
+        color: #ffffff;
+        border-radius: 5px;
+        font-size: 12px;
+       
+    }
+    #king i{
+        color: #ffffff;
+        margin-top: 2px;
+        font-size: 12px;
+    }
+    #r{
+        margin-top: 150px;
+        margin-left: 30px;
+    }
+    .footer{
+        display: none;
+    }
+    .copyrights{
+        display: none;
+    }
+}
