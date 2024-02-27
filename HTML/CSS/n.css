@@ -1,0 +1,46 @@
+.navigation{
+    position: relative;
+    width: 540px;
+    height: 120px;
+    background: #242433;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navigation li{
+    position: relative;
+    list-style: none;
+}
+.navigation li ::before{
+    content: '';
+    position: absolute;
+    top: 35px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 5px;
+    height: 5px;
+    background: #222;
+    border-radius: 50%;
+    transition: 0.5s;
+}
+.navigation li a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-decoration: none;
+}
+.navigation li a .icon{
+    position: absolute;
+    font-size: 1.75em;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #aaa;
+    border-radius: 50px;
+    transition: 0.5s;
+    transition-delay: 0.2s;
+}

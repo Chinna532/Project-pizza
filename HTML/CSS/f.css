@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+}
+#m{
+    width: 1488px;
+    height:700px;
+    background-color: #d5d9e4;
+}
+#a{
+    background-color: #3b5998;
+    height: 100px;
+}
+#a h1{
+    color: white;
+    margin-left: 50px;
+    padding-top: 25px;
+    font-size: 60px;
+}
+#a button{
+    float: right;
+    margin-top: -30px;
+    background-color: #3b5998;
+    padding-right: 10px;
+    margin-right: 40px;
+}
+#password{
+    padding-left: 900px;
+    margin-top: -50px;
+    color: white;
+}
+#email{
+    padding-left: 1100px;
+    margin-top: -40px;
+    color: white;
+}
+#b{
+    float: right;
+    padding-top: 20px;
+    padding-right: 400px;
+}
+#c{
+    float: right;
+    margin-right: -170px;
+    margin-top: 60px;
+}   
+#d{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+#e{
+    padding-left: 110px;
+    margin-top: -183px;
+}
+#f{
+    padding-left: 110px;
+    margin-top: 50px;
+}
+#g{
+    padding-left: 110px;
+    margin-top: 50px;
+}
+#h{
+ float: right;
+ padding-right: 67px;
+ margin-top: -200px;
+}
+#i{
+    width: 335px;
+}
+#j{
+    width: 335px;
+}
+span{
+    color: rgb(78, 78, 173);
+}
+button{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+}
+#raj{
+    margin-top: 40px;
+}
+#raj1{
+    padding-bottom: 50px;
+    padding-left: 70px;
+}
+#raj2{
+    padding-bottom: 50px;
+    padding-left: 70px;
+}
+#raj3{
+    padding-bottom: 30px;
+    padding-left: 70px;
+}

@@ -1,0 +1,153 @@
+*{
+    margin: 0px;
+}
+.total{
+    height: 2500px;
+
+}
+.navbar{
+    height: 80px;
+    background-color:rgba(44, 40, 40, 0.937);
+    color: white
+}
+.logo{
+    font-size: 50px;
+    margin-left: 60px;
+    margin-top: -55px;
+    color: yellow;
+
+}
+#brand{
+   font-size: 60px;
+   margin-top: 10px;
+   color: yellow;
+}
+.head{
+    margin-left: 1050px;
+    margin-top: -35px;
+   
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.a{
+    padding-right: 25px;
+}
+.second{
+    height: 680px;
+    background-image: url("./computer.png.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.second img {
+    height: 120px;
+    width: 120px;
+}
+.about{
+    color: white;
+    padding-top: 110px;
+    text-align: center;
+    font-size: 35px;
+}
+.about a{
+    color: yellow;
+    font-size: 20px;
+    padding-left: 550px;
+}
+.third{
+    height: 700px;
+    background-color: rgb(255, 240, 240);
+}
+.broucher1{
+    width: 500px;
+    height: 700px;
+    background-color: rgb(241, 227, 254);
+    border: 1px solid;
+    margin: 1px;
+}
+#logo{
+    font-size: 60px;
+    margin: 2%;
+    color: rgb(84, 76, 76);
+}
+.broucher1 h3{
+    margin: 10px;
+    margin-top: -4px;
+    color: rgb(77, 73, 73);
+}
+.icons{
+    font-size: 20px;
+    float: right;
+    margin-top: -100px;
+    margin-right: 10px;
+}
+.icons i{
+    padding-top: 10px;
+    padding-left: 20px;
+    color: rgb(89, 65, 111);
+}
+.broucher1 h1{
+    text-align: center;
+    color: brown;
+    font-size: 30px;
+    margin-top: 40px;
+}
+.broucher1 img{
+    height: 300px;
+    margin-top: -100px;
+    margin-left: 150px;
+}
+.broucher1 p{
+    margin: 15px;
+    text-align: center;
+}
+.learn p{
+    text-align: center;
+}
+
+.four{
+    background-color: rgb(33, 25, 25);
+}
+video{
+    height: 550px;
+}
+.child{
+    float: right;
+    color: white;
+    padding-right: 50px;
+}
+.child button{
+    color: black;
+    text-decoration: none;
+    background-color: aqua;
+    font-size: 20px;
+    margin-left: 350px;
+    border-radius: 10px;    
+
+}
+.q{
+    margin-left: 550px;
+    margin-bottom: -38px;
+}
+.five{
+    margin: 0px;
+    padding: 30px;
+    height: 550px;
+    background-image: url("./");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.five img{
+    height: 300px;
+    width: 300px;
+    float: right;
+    margin-top: -610px;
+}
+.five h2{
+    color: black;
+    font-size: 27px;
+}
+span{
+    color: rgb(0, 119, 255);
+}
